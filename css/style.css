@@ -169,9 +169,11 @@ header .navbar a:hover {
 }
 
 .home .content p {
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   color: #464646;
   padding: 1rem 0;
+  text-transform: none;
+  font-weight: 600;
 }
 
 .speciality .box-container {
